@@ -5,6 +5,6 @@ based on John Hopkins University CSSE public api !
 
 <https://coronatrackerv2.now.sh//>
 
-#INSTALL
+# INSTALL
 instal via npm
 
