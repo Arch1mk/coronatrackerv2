@@ -1,8 +1,5 @@
-# rona 🦠
-
-Code along with React + Next + Hooks API
-
-<https://www.youtube.com/watch?v=B85s0cjlitE>
+#corona api tracker
+based on John Hopkins University CSSE public api !
 
 # URL
 
