@@ -1,10 +1,13 @@
-# CORONA API TRACKER
+# Corona api tracker
 based on John Hopkins University CSSE public api !
 
-# URL
+# Url
 
 <https://coronatrackerv2.now.sh//>
 
-# INSTALL
-npm i
+# Install
+npm install
+
+# Run
+npm start
 
