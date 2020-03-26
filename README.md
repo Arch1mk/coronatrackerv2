@@ -1,4 +1,4 @@
-#corona api tracker
+# CORONA API TRACKER
 based on John Hopkins University CSSE public api !
 
 # URL
