@@ -1,5 +1,7 @@
 # Corona api tracker
-based on John Hopkins University CSSE public api !
+based on John Hopkins University CSSE public api !    
+
+#api not working anymore :(
 
 # Url
 
